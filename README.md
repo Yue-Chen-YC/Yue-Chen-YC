@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Yue Chen
+- 👀 I’m interested in language acquisition, language processing, and theoretical semantics
